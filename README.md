@@ -54,3 +54,27 @@ This project is split into two parts:
 | Jane Doe | Cautious | IGLT.L | 500 |
 
 ## Output Example
+
+
+CLIENT: John Smith | RISK: Balanced | VALUE: £431,630.75
+ASSET CLASS ALLOCATION
+UK Equity            76.6%
+Global Equity        17.9%
+Alternatives          5.1%
+Fixed Income          0.5%
+GEOGRAPHIC ALLOCATION
+UK                   77.1%
+US                   13.3%
+Global                9.6%
+
+
+## Tech Stack
+- Python 3
+- pandas
+- yfinance
+- Jupyter Lab
+- Power BI (dashboard layer)
+
+## Author
+Built as part of a data analytics portfolio targeting wealth management roles.
+Toby Oliver | [github.com/Tmax95644](https://github.com/Tmax95644)
