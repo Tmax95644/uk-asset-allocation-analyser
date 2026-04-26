@@ -1,0 +1,14 @@
+Client,Risk_Profile,Ticker,Shares
+John Smith,Balanced,VWRL.L,150
+John Smith,Balanced,SHEL.L,100
+John Smith,Balanced,CSPX.L,75
+John Smith,Balanced,IGLT.L,200
+John Smith,Balanced,PHAU.L,50
+Jane Doe,Cautious,IGLT.L,500
+Jane Doe,Cautious,VUKE.L,200
+Jane Doe,Cautious,VGOV.L,300
+Jane Doe,Cautious,IGLN.L,100
+Bob Jones,Growth,CSPX.L,200
+Bob Jones,Growth,VWRL.L,100
+Bob Jones,Growth,SHEL.L,50
+Bob Jones,Growth,PHAU.L,75
